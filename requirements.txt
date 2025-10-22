@@ -1,0 +1,20 @@
+# Core LangChain components
+langchain
+langchain-community
+
+# Vectorstore
+chromadb
+
+# Embeddings
+sentence-transformers
+torch
+
+# Data Loading & Parsing
+feedparser
+lxml
+
+# Tokenizer
+tiktoken
+
+# Data Handling
+pandas
